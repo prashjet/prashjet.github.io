@@ -1,4 +1,6 @@
-# Research interests
+I'm a astrophysicist in the [stellar dynamics froup at the University of Vienna](https://www.univie.ac.at/dynamics/). This is my personal website.
+
+*# Research interests
 
 Galaxies.
 
@@ -8,11 +10,15 @@ For a full list of publications refer to [orcID](https://orcid.org/0000-0003-001
 
 Some selected publications are...
 
-# Teaching
+# Teaching Materials
 
 - Numerical Methods (WS19)
 - A Bayesian Toolkit Applied to Dynamics of Stellar Clusters (SS21)
 - ...
+
+# DYNAMITE
+
+I co-ordinate
 
 # Contact
 
