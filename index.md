@@ -1,12 +1,8 @@
-I'm an astrophysicist in the [stellar dynamics group at the University of Vienna](https://www.univie.ac.at/dynamics/) and this is my personal website.
+I'm Prashin (Prash) Jethwa: an astrophysicist in the [stellar dynamics group](https://www.univie.ac.at/dynamics/) at the University of Vienna.
 
-# Research interests
+I develop open-source software and statistical methods for astrophysics, making heavy use of Probabilistic Programming Languages (PPLs) such as [`Stan`](https://mc-stan.org/) and [`numpyro`](https://pyro.ai/numpyro/). I also work with mathematicians within the inter-discipinary project [Tomography Across the Scales](https://tomography.univie.ac.at/), developing bespoke algorithms to solve large-scale inverse problems.
 
-- Galaxy structure and dynamics
-- Dark matter
-- Milky Way halo and satellite galaxies
-- Statistical methods
-- Probabilistic programming
+Astrophysically, my broad research goal is to understand galaxy evolution in a cosmological context. I look for observational signatures of hierarchical build-up of galaxies using stellar kinematics, populations, and combined population-dynamical modelling. I also investigate galactic satellites systems, e.g. to constrain the nature of dark matter. This work spans Milky Way and Local Group (using resolved star data from large survey) and extragalactic systems (using integrated-light Integral Field Spectroscopy data).
 
 # Publications
 
