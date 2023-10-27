@@ -12,11 +12,18 @@ I'm an astrophysicist in the [stellar dynamics group at the University of Vienna
 
 For a full list of publications refer to [orcID](https://orcid.org/0000-0003-0010-8129).
 
-# Teaching Materials
+# Teaching
 
-Links to Uni.Vie. internal Moodle pages:
-- [Numerical Methods (WS19)](https://moodle.univie.ac.at/course/view.php?id=119423)
-- [A Bayesian Toolkit Applied to Dynamics of Stellar Clusters (SS21)](https://moodle.univie.ac.at/course/view.php?id=213316)
+A history of courses I have taught at University of Vienna.
+
+As a lecturer:
+- Open Source Software Development for Astronomy (Winter 23/24)
+- Introduction to Computational Astrophysics (Summer 23)
+- Computational Concepts in Astronomy and Geosciences (Winter 21/22)
+- A Bayesian Toolkit Applied to Dynamics of Stellar Clusters (Summer 21)
+
+In exercise classes:
+- Numerical Methods (Winter 19/20)
 
 # DYNAMITE
 
