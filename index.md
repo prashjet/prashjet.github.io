@@ -1,3 +1,5 @@
+# Senior Scientist in Computational Astrophysics
+
 I'm Prashin (Prash) Jethwa: an astrophysicist in the [stellar dynamics group](https://www.univie.ac.at/dynamics/) at the University of Vienna.
 
 I develop open-source software and statistical methods for astrophysics, making heavy use of Probabilistic Programming Languages (PPLs) such as [`Stan`](https://mc-stan.org/) and [`numpyro`](https://pyro.ai/numpyro/). I also work with mathematicians within the inter-discipinary project [Tomography Across the Scales](https://tomography.univie.ac.at/), developing bespoke algorithms to solve large-scale inverse problems.
